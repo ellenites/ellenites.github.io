@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar {
+    width: 300px;
+    background-color: #eef3f7;
+    padding: 20px;
+    text-align: center;
+    border-right: 1px solid #ddd;
+}
+
+.sidebar img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.sidebar h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.sidebar p {
+    font-size: 14px;
+    color: #555;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: #0073b1;
+    font-size: 14px;
+}
+
+.content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.publication {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.publication h3 a {
+    text-decoration: none;
+    color: #0073b1;
+}
+
+.publication .download {
+    display: inline-block;
+    margin-top: 5px;
+    padding: 5px 10px;
+    background-color: #0073b1;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
