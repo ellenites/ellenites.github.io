@@ -12,7 +12,7 @@ I approach both my work and personal life with curiosity, determination, and a s
 
 ## News 
 
-I finished my MSc on computer Engineering from AAiT! 
+I finished my MSc on Computer Engineering from AAiT! 
 
-Our paper on [Cognate Detection for Historical Language Reconstruction of Proto-Sabean Languages: the Case of Ge’ez, Tigrinya, and Amharic](https://hhnigatu.github.io//publication/2024-zenos-emnlp) was accepted and published on COLING 2025.
+Our paper on [Cognate Detection for Historical Language Reconstruction of Proto-Sabean Languages: the Case of Ge’ez, Tigrinya, and Amharic](https://hhnigatu.github.io//publication/2025_coling) was accepted and published on COLING 2025.
 
