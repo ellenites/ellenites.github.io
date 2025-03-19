@@ -26,7 +26,7 @@ author:
   name             : "Elleni Sisay Temesgen"
   pronouns         : # example: "she/her"  
   bio              : "MSc in Computer Engineering from AAiT, Working on front-end web development, AI, NLP, and data analysis."
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "Self"
   uri              : # URL
   email            : "elleni.sisay@aait.edu.et" 
