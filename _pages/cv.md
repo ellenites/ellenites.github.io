@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
+* Summer 2024: Domain Expert
+  * Mindrift Toloka
+
 * 2023-2024: Python  Teacher
   * STEM for kids
   * Duties includes: Teaching beginner and object-oriented  python
 
 * 2021: Joiner website developer
-  * BOOST SOFTWARE DEVELOPER PRIVATE LIMITED COMPANY
-
-* Summer 2024: Domain Expert
-  * Mindrift Toloka
+  * Boost software developer private limited company
 
 Publications
 ======
