@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Green Ride"
+excerpt: "Green Ride is a ride-sharing mobile application designed to provide users with fast, safe and affordable transportation. The app connects passengers with verified drivers in real time, ensuring a smooth and reliable travel experience. https://play.google.com/store/apps/details?id=com.greenride.greenrideuser"
 collection: portfolio
 ---
+https://play.google.com/store/apps/details?id=com.greenride.greenrideuser
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
